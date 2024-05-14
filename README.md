@@ -1,4 +1,4 @@
-# Introducción al Análisis de Encuestas con SPSS
+# Taller: Introducción al Análisis de Encuestas con SPSS
 
 Aquí se puede encontrar material del curso:
 
